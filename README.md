@@ -1,2 +1,1 @@
-# kill-the-monster
-.
+# project-34
